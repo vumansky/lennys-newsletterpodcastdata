@@ -1,7 +1,16 @@
 {
   "schema_version": "2.0",
-  "generated_at": "2026-11-18T17:02:49.084375+00:00",
+  "generated_at": "2026-11-22T17:03:15.816094+00:00",
   "podcasts": [
+    {
+      "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
+      "filename": "podcasts/sherif-mansour.md",
+      "word_count": 16816,
+      "date": "2026-11-22",
+      "description": "What it takes to be a great product manager in the AI era, covering team leadership, product strategy and execution, and product design.",
+      "guest": "Sherif Mansour",
+      "post_url": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to"
+    },
     {
       "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
       "filename": "podcasts/mona-sarantakos-v2.md",
@@ -429,15 +438,6 @@
       "description": "Molly Graham has worked for some of tech’s most effective leaders, including Mark Zuckerberg, Sheryl Sandberg, Chamath Palihapitiya, and Bret Taylor. Today she leads Glue Club, a community for leaders navigating rapid scale, growth, and change.",
       "guest": "Molly Graham",
       "youtube_url": "https://www.youtube.com/watch?v=twzLDx9iers"
-    },
-    {
-      "title": "We replaced our sales team with 20 AI agents—here’s what happened | Jason Lemkin (SaaStr)",
-      "filename": "podcasts/jason-m-lemkin.md",
-      "word_count": 26179,
-      "date": "2026-01-01",
-      "description": "We replaced our sales team with 20 AI agents—here’s what happened, covering B2B products, startup building, and team leadership.",
-      "guest": "Jason M Lemkin",
-      "youtube_url": "https://www.youtube.com/watch?v=I-R1bc1rlFs"
     }
   ],
   "newsletters": [
